@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Effective Thermal Conductivity of Filler-Enhanced Phase Change Materials — Dataset and Code"
+type: dataset
+authors:
+  - family-names: Khan
+    given-names: Muhammed Anaz
+    email: mkhan@ub.edu.sa
+    orcid: "https://orcid.org/0000-0002-8837-9865"
+    affiliation: "Department of Mechanical Engineering, College of Engineering, University of Bisha, Bisha 61922, P.O. Box 551, Saudi Arabia"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-07-05"
+# doi: add the Zenodo-assigned DOI here once the deposit is published, e.g. 10.5281/zenodo.XXXXXXX
+keywords:
+  - phase change materials
+  - effective thermal conductivity
+  - nanoparticle enhancement
+  - machine learning
+  - dataset

@@ -1,0 +1,151 @@
+id,source,base_pcm,filler,filler_class,hybrid_flag,loading_wt,filler_k_WmK,particle_size_nm,temp_C,phase,base_k_WmK,keff_WmK,delta_k_pct,keff_source,where
+1,Sari & Karaipekli 2007,paraffin,none,base,0,0.0,0.0,NR,25,solid,0.22,0.22,0.0,EXACT,text p.1274
+2,Sari & Karaipekli 2007,paraffin,EG,carbon,0,2.0,100.0,NR,25,solid,0.22,0.4,81.8,EXACT,text p.1274
+3,Sari & Karaipekli 2007,paraffin,EG,carbon,0,4.0,100.0,NR,25,solid,0.22,0.52,136.4,EXACT,text p.1274
+4,Sari & Karaipekli 2007,paraffin,EG,carbon,0,7.0,100.0,NR,25,solid,0.22,0.68,209.1,EXACT,text p.1274
+5,Sari & Karaipekli 2007,paraffin,EG,carbon,0,10.0,100.0,NR,25,solid,0.22,0.82,272.7,EXACT,text p.1274
+6,Motahar 2016,n-octadecane,MWCNT,carbon,0,0.5,3000.0,140,5,solid,0.375,0.414,10.4,EXACT,Fig2a text
+7,Motahar 2016,n-octadecane,MWCNT,carbon,0,1.0,3000.0,140,5,solid,0.375,0.448,19.5,EXACT,Fig2a text
+8,Motahar 2016,n-octadecane,MWCNT,carbon,0,2.0,3000.0,140,5,solid,0.375,0.445,18.7,EXACT,Fig2a text
+9,Motahar 2016,n-octadecane,MWCNT,carbon,0,5.0,3000.0,140,5,solid,0.375,0.51,36.0,EXACT,Fig2a text
+10,Motahar 2016,n-octadecane,MWCNT,carbon,0,0.5,3000.0,140,20,solid,0.375,0.4,6.7,EXACT,Fig2a text
+11,Motahar 2016,n-octadecane,MWCNT,carbon,0,1.0,3000.0,140,20,solid,0.375,0.429,14.4,EXACT,Fig2a text
+12,Motahar 2016,n-octadecane,MWCNT,carbon,0,2.0,3000.0,140,20,solid,0.375,0.45,20.0,EXACT,Fig2a text
+13,Motahar 2016,n-octadecane,MWCNT,carbon,0,5.0,3000.0,140,20,solid,0.375,0.48,28.0,EXACT,Fig2a text
+14,Motahar 2016,n-octadecane,MWCNT,carbon,0,5.0,3000.0,140,30,liquid,0.165,0.229,38.8,EXACT,Fig2b text
+15,Motahar 2016,n-octadecane,CNF,carbon,0,0.5,2000.0,137,30,liquid,0.165,0.167,1.2,EXACT,Fig4b text
+16,Motahar 2016,n-octadecane,CNF,carbon,0,1.0,2000.0,137,30,liquid,0.165,0.18,9.1,EXACT,Fig4b text
+17,Motahar 2016,n-octadecane,CNF,carbon,0,2.0,2000.0,137,30,liquid,0.165,0.185,12.1,EXACT,Fig4b text
+18,Motahar 2016,n-octadecane,CNF,carbon,0,5.0,2000.0,137,30,liquid,0.165,0.189,14.5,EXACT,Fig4b text
+19,Motahar 2016,n-octadecane,CNF,carbon,0,0.5,2000.0,137,55,liquid,0.165,0.154,-6.7,EXACT,Fig4b text
+20,Motahar 2016,n-octadecane,CNF,carbon,0,1.0,2000.0,137,55,liquid,0.165,0.165,0.0,EXACT,Fig4b text
+21,Motahar 2016,n-octadecane,CNF,carbon,0,2.0,2000.0,137,55,liquid,0.165,0.17,3.0,EXACT,Fig4b text
+22,Motahar 2016,n-octadecane,CNF,carbon,0,5.0,2000.0,137,55,liquid,0.165,0.175,6.1,EXACT,Fig4b text
+23,Sharma 2025,beeswax,none,base,0,0.0,0.0,NR,25,solid,0.24,0.24,0.0,EXACT,abstract
+24,Sharma 2025,beeswax,SiO2-CeO2,hybrid,1,1.0,5.7,NR,25,solid,0.24,0.4,66.7,EXACT,abstract
+25,Sharma 2025,beeswax,SiO2-CeO2,hybrid,1,2.0,5.7,NR,25,solid,0.24,0.42,75.0,COMPUTED,abstract 75%
+26,Harish 2015,lauric acid,none,base,0,0.0,0.0,NR,20,solid,0.215,0.215,0.0,EXACT,text
+27,Harish 2015,lauric acid,graphene,carbon,0,2.5,4000.0,7,20,solid,0.215,0.489,127.4,EXACT,text
+28,Manoj Kumar 2019,paraffin,none,base,0,0.0,0.0,15,25,solid,0.18,0.18,0.0,EXACT,text
+29,Manoj Kumar 2019,paraffin,SiO2,oxide,0,0.5,1.4,15,25,solid,0.18,0.203,12.8,EXACT,text
+30,Manoj Kumar 2019,paraffin,SiO2,oxide,0,1.0,1.4,15,25,solid,0.18,0.221,22.8,EXACT,text
+31,Manoj Kumar 2019,paraffin,SiO2,oxide,0,2.0,1.4,15,25,solid,0.18,0.24,33.3,EXACT,text
+32,Maher 2021,paraffin,SiC,carbide,0,15.0,120.0,80,25,solid,0.25,0.396,58.4,COMPUTED,abstract 58.2%
+33,Maher 2021,paraffin,Ag,metal,0,15.0,429.0,80,25,solid,0.25,0.328,31.2,COMPUTED,abstract 31.2%
+34,Nourani 2016,paraffin,none,base,0,0.0,0.0,15,25,solid,0.197,0.197,0.0,EXACT,Table6
+35,Nourani 2016,paraffin,none,base,0,0.0,0.0,15,60,liquid,0.148,0.148,0.0,EXACT,Table6
+36,Nourani 2016,paraffin,Al2O3,oxide,0,2.5,35.0,15,25,solid,0.197,0.227,15.2,EXACT,Table6
+37,Nourani 2016,paraffin,Al2O3,oxide,0,5.0,35.0,15,25,solid,0.197,0.236,19.8,EXACT,Table6
+38,Nourani 2016,paraffin,Al2O3,oxide,0,7.5,35.0,15,25,solid,0.197,0.245,24.4,EXACT,Table6
+39,Nourani 2016,paraffin,Al2O3,oxide,0,10.0,35.0,15,25,solid,0.197,0.259,31.5,EXACT,Table6
+40,Nourani 2016,paraffin,Al2O3,oxide,0,2.5,35.0,15,60,liquid,0.148,0.152,2.7,EXACT,Table6
+41,Nourani 2016,paraffin,Al2O3,oxide,0,5.0,35.0,15,60,liquid,0.148,0.156,5.4,EXACT,Table6
+42,Nourani 2016,paraffin,Al2O3,oxide,0,7.5,35.0,15,60,liquid,0.148,0.162,9.5,EXACT,Table6
+43,Nourani 2016,paraffin,Al2O3,oxide,0,10.0,35.0,15,60,liquid,0.148,0.167,12.8,EXACT,Table6
+44,Xia 2010,paraffin,none,base,0,0.0,0.0,NR,15,solid,0.305,0.305,0.0,EXACT,Table1
+45,Xia 2010,paraffin,EG,carbon,0,10.0,100.0,NR,15,solid,0.305,3.83,1155.7,EXACT,text
+46,Qu 2019,octadecane-HDPE,EG,carbon,0,5.0,100.0,NR,25,solid,0.25,0.85,240.0,EXACT,Sec3.1
+47,Qu 2019,octadecane-HDPE,MWCNT,carbon,0,5.0,3000.0,NR,25,solid,0.25,0.52,108.0,EXACT,Sec3.1
+48,Qu 2019,octadecane-HDPE,CNF,carbon,0,5.0,2000.0,NR,25,solid,0.25,0.37,48.0,EXACT,Sec3.1
+49,Qu 2019,octadecane-HDPE,EG-MWCNT 4:1,hybrid,1,5.0,1550.0,NR,25,solid,0.25,1.36,444.0,EXACT,Table4
+50,Qu 2019,octadecane-HDPE,EG-MWCNT 3:2,hybrid,1,5.0,1550.0,NR,25,solid,0.25,1.09,336.0,EXACT,Table4
+51,Qu 2019,octadecane-HDPE,EG-CNF 4:1,hybrid,1,5.0,1050.0,NR,25,solid,0.25,1.03,312.0,EXACT,Table4
+52,Arshad 2020,RT-35HC,GO,carbon,0,1.0,100.0,NR,20,solid,0.214,0.374,74.8,EXACT,Sec3.6
+53,Arshad 2020,RT-35HC,GO,carbon,0,1.0,100.0,NR,35,liquid,0.34,0.957,181.5,EXACT,Sec3.6
+54,Arshad 2020,RT-35HC,rGO,carbon,0,1.0,1500.0,NR,20,solid,0.214,0.373,74.3,EXACT,Sec3.6
+55,Arshad 2020,RT-35HC,rGO,carbon,0,1.0,1500.0,NR,35,liquid,0.34,0.935,175.0,EXACT,Sec3.6
+56,Arshad 2020,RT-35HC,GNP,carbon,0,1.0,4000.0,NR,20,solid,0.214,0.378,76.6,EXACT,Sec3.6
+57,Arshad 2020,RT-35HC,GNP,carbon,0,1.0,4000.0,NR,35,liquid,0.34,0.966,184.1,EXACT,Sec3.6
+58,Arshad 2020,RT-35HC,MWCNT,carbon,0,1.0,3000.0,NR,20,solid,0.214,0.354,65.4,EXACT,Sec3.6
+59,Arshad 2020,RT-35HC,MWCNT,carbon,0,1.0,3000.0,NR,35,liquid,0.34,0.921,170.9,EXACT,Sec3.6
+60,Arshad 2020,RT-35HC,GO-MWCNT,hybrid,1,1.0,1550.0,NR,20,solid,0.214,0.408,90.7,EXACT,Sec3.6
+61,Arshad 2020,RT-35HC,GO-MWCNT,hybrid,1,1.0,1550.0,NR,35,liquid,0.34,0.961,182.6,EXACT,Sec3.6
+62,Arshad 2020,RT-35HC,rGO-MWCNT,hybrid,1,1.0,2250.0,NR,20,solid,0.214,0.428,100.0,EXACT,Sec3.6
+63,Arshad 2020,RT-35HC,rGO-MWCNT,hybrid,1,1.0,2250.0,NR,35,liquid,0.34,0.965,183.8,EXACT,Sec3.6
+64,Arshad 2020,RT-35HC,GNP-MWCNT,hybrid,1,1.0,3500.0,NR,20,solid,0.214,0.443,107.0,EXACT,Sec3.6
+65,Arshad 2020,RT-35HC,GNP-MWCNT,hybrid,1,1.0,3500.0,NR,35,liquid,0.34,0.97,185.3,EXACT,Sec3.6
+66,Li 2019,paraffin,none,base,0,0.0,0.0,NR,25,solid,0.201,0.201,0.0,EXACT,Table2
+67,Li 2019,paraffin,EG,carbon,0,0.5,100.0,NR,25,solid,0.201,0.224,11.4,EXACT,Table2
+68,Li 2019,paraffin,EG,carbon,0,1.0,100.0,NR,25,solid,0.201,0.239,18.9,EXACT,Table2
+69,Li 2019,paraffin,EG,carbon,0,1.5,100.0,NR,25,solid,0.201,0.252,25.4,EXACT,Table2
+70,Li 2019,paraffin,EG,carbon,0,2.0,100.0,NR,25,solid,0.201,0.272,35.3,EXACT,Table2
+71,Li 2019,paraffin,GO,carbon,0,0.5,100.0,NR,25,solid,0.201,0.244,21.4,EXACT,Table2
+72,Li 2019,paraffin,GO,carbon,0,1.0,100.0,NR,25,solid,0.201,0.266,32.3,EXACT,Table2
+73,Li 2019,paraffin,GO,carbon,0,1.5,100.0,NR,25,solid,0.201,0.286,42.3,EXACT,Table2
+74,Li 2019,paraffin,GO,carbon,0,2.0,100.0,NR,25,solid,0.201,0.309,53.7,EXACT,Table2
+75,Li 2019,paraffin,graphene,carbon,0,0.5,4000.0,NR,25,solid,0.201,0.266,32.3,EXACT,Table2
+76,Li 2019,paraffin,graphene,carbon,0,1.0,4000.0,NR,25,solid,0.201,0.289,43.8,EXACT,Table2
+77,Li 2019,paraffin,graphene,carbon,0,1.5,4000.0,NR,25,solid,0.201,0.312,55.2,EXACT,Table2
+78,Li 2019,paraffin,graphene,carbon,0,2.0,4000.0,NR,25,solid,0.201,0.348,73.1,EXACT,Table2
+79,He 2018,PEG,none,base,0,0.0,0.0,2,25,solid,0.316,0.316,0.0,EXACT,text
+80,He 2018,PEG,GNP,carbon,0,2.0,4000.0,2,25,solid,0.316,0.776,145.6,EXACT,text
+81,Paprota 2024,stearic acid blend,none,base,0,0.0,0.0,500,25,solid,0.252,0.252,0.0,EXACT,Table9
+82,Paprota 2024,stearic acid blend,h-BN,nitride,0,0.5,300.0,500,25,solid,0.252,0.284,12.7,EXACT,Table9
+83,Paprota 2024,stearic acid blend,h-BN,nitride,0,1.0,300.0,500,25,solid,0.252,0.313,24.2,EXACT,Table9
+84,Paprota 2024,stearic acid blend,h-BN,nitride,0,2.0,300.0,500,25,solid,0.252,0.306,21.4,EXACT,Table9
+85,Paprota 2024,stearic acid blend,h-BN,nitride,0,5.0,300.0,500,25,solid,0.252,0.324,28.6,EXACT,Table9
+86,Paprota 2024,stearic acid blend,c-BN,nitride,0,0.5,750.0,165,25,solid,0.252,0.324,28.6,EXACT,Table9
+87,Paprota 2024,stearic acid blend,c-BN,nitride,0,1.0,750.0,165,25,solid,0.252,0.297,17.9,EXACT,Table9
+88,Paprota 2024,stearic acid blend,c-BN,nitride,0,2.0,750.0,165,25,solid,0.252,0.274,8.7,EXACT,Table9
+89,Paprota 2024,stearic acid blend,c-BN,nitride,0,5.0,750.0,165,25,solid,0.252,0.326,29.4,EXACT,Table9
+90,Huang 2023,stearic acid-benzamide,none,base,0,0.0,0.0,NR,25,solid,0.3393,0.3393,0.0,EXACT,Sec3.6
+91,Huang 2023,stearic acid-benzamide,BN,nitride,0,10.0,300.0,100,25,solid,0.3393,0.5878,73.2,EXACT,Sec3.6
+92,Huang 2023,stearic acid-benzamide,BN,nitride,0,15.0,300.0,100,25,solid,0.3393,0.7278,114.5,EXACT,Sec3.6
+93,Huang 2023,stearic acid-benzamide,BN,nitride,0,20.0,300.0,100,25,solid,0.3393,0.9647,184.3,EXACT,Sec3.6
+94,Huang 2023,stearic acid-benzamide,EG,carbon,0,10.0,100.0,NR,25,solid,0.3393,3.525,938.9,EXACT,Sec3.6
+95,Huang 2023,stearic acid-benzamide,EG,carbon,0,15.0,100.0,NR,25,solid,0.3393,4.913,1348.0,EXACT,Sec3.6
+96,Huang 2023,stearic acid-benzamide,EG,carbon,0,20.0,100.0,NR,25,solid,0.3393,6.377,1779.5,EXACT,Sec3.6
+97,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,20.0,200.0,100,25,solid,0.3393,3.805,1021.4,EXACT,Sec3.6
+98,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,25.0,200.0,100,25,solid,0.3393,3.977,1072.1,EXACT,Sec3.6
+99,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,30.0,200.0,100,25,solid,0.3393,4.184,1133.1,EXACT,Sec3.6
+100,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,25.0,200.0,100,25,solid,0.3393,5.278,1455.6,EXACT,Sec3.6
+101,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,30.0,200.0,100,25,solid,0.3393,5.486,1516.9,EXACT,Sec3.6
+102,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,35.0,200.0,100,25,solid,0.3393,5.552,1536.3,EXACT,Sec3.6
+103,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,30.0,200.0,100,25,solid,0.3393,6.791,1901.5,EXACT,Sec3.6
+104,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,35.0,200.0,100,25,solid,0.3393,6.99,1960.1,EXACT,Sec3.6
+105,Huang 2023,stearic acid-benzamide,BN-EG,hybrid,1,40.0,200.0,100,25,solid,0.3393,7.097,1991.7,EXACT,Sec3.6
+106,Islam 2024,RT-54HC,none,base,0,0.0,0.0,NR,25,solid,0.2,0.2,0.0,EXACT,Sec3.3
+107,Islam 2024,RT-54HC,GNP,carbon,0,0.2,4000.0,2000,25,solid,0.2,0.23,15.0,EXACT,Sec3.3
+108,Islam 2024,RT-54HC,GNP-MWCNT 1:1,hybrid,1,0.2,3500.0,NR,25,solid,0.2,0.25,25.0,EXACT,Sec3.3
+109,Islam 2024,RT-54HC,GNP-MWCNT 1:3,hybrid,1,0.2,3500.0,NR,25,solid,0.2,0.28,40.0,EXACT,Sec3.3
+110,Islam 2024,RT-54HC,GNP-MWCNT 3:1,hybrid,1,0.2,3500.0,NR,25,solid,0.2,0.26,30.0,EXACT,Sec3.3
+111,Islam 2024,RT-54HC,MWCNT,carbon,0,0.2,3000.0,15,25,solid,0.2,0.21,5.0,EXACT,Sec3.3
+112,Ma 2022,n-docosane+EG,EG,carbon,0,15.0,100.0,NR,25,solid,1.182,1.182,0.0,EXACT,Sec3.1
+113,Ma 2022,n-docosane+EG,Cu-EG,hybrid,1,16.7,250.0,NR,25,solid,1.182,1.983,67.8,EXACT,Sec4
+114,Shama 2021,paraffin,none,base,0,0.0,0.0,52.7,20,solid,0.2864,0.2864,0.0,EXACT,Table1
+115,Shama 2021,paraffin,CuO,oxide,0,0.5,33.0,52.7,20,solid,0.2864,0.3227,12.7,EXACT,Table1
+116,Shama 2021,paraffin,CuO,oxide,0,1.0,33.0,52.7,20,solid,0.2864,0.336,17.3,EXACT,Table1
+117,Shama 2021,paraffin,CuO,oxide,0,1.5,33.0,52.7,20,solid,0.2864,0.2198,-23.3,EXACT,Table1
+118,Shama 2021,paraffin,CuO,oxide,0,2.0,33.0,52.7,20,solid,0.2864,0.2398,-16.3,EXACT,Table1
+119,Cui 2011,soy wax,none,base,0,0.0,0.0,200,25,solid,0.324,0.324,0.0,EXACT,Table1
+120,Cui 2011,soy wax,CNF,carbon,0,1.0,2000.0,200,25,solid,0.324,0.414,27.8,EXACT,Table1
+121,Cui 2011,soy wax,CNF,carbon,0,2.0,2000.0,200,25,solid,0.324,0.426,31.5,EXACT,Table1
+122,Cui 2011,soy wax,CNF,carbon,0,5.0,2000.0,200,25,solid,0.324,0.467,44.1,EXACT,Table1
+123,Cui 2011,soy wax,CNF,carbon,0,10.0,2000.0,200,25,solid,0.324,0.469,44.8,EXACT,Table1
+124,Cui 2011,soy wax,MWCNT,carbon,0,1.0,3000.0,30,25,solid,0.324,0.343,5.9,EXACT,Table1
+125,Cui 2011,soy wax,MWCNT,carbon,0,2.0,3000.0,30,25,solid,0.324,0.354,9.3,EXACT,Table1
+126,Cui 2011,soy wax,MWCNT,carbon,0,5.0,3000.0,30,25,solid,0.324,0.395,21.9,EXACT,Table1
+127,Cui 2011,soy wax,MWCNT,carbon,0,10.0,3000.0,30,25,solid,0.324,0.403,24.4,EXACT,Table1
+128,Cui 2011,paraffin,none,base,0,0.0,0.0,200,25,solid,0.32,0.32,0.0,EXACT,Table2
+129,Cui 2011,paraffin,CNF,carbon,0,1.0,2000.0,200,25,solid,0.32,0.398,24.4,EXACT,Table2
+130,Cui 2011,paraffin,CNF,carbon,0,2.0,2000.0,200,25,solid,0.32,0.411,28.4,EXACT,Table2
+131,Cui 2011,paraffin,CNF,carbon,0,5.0,2000.0,200,25,solid,0.32,0.439,37.2,EXACT,Table2
+132,Cui 2011,paraffin,CNF,carbon,0,10.0,2000.0,200,25,solid,0.32,0.45,40.6,EXACT,Table2
+133,D'Oliveira et al. 2026,CrodaTherm 60,none,base,0,0.0,0.0,NR,19,solid,0.289,0.289,0.0,EXACT,Table6
+134,D'Oliveira et al. 2026,CrodaTherm 60,GNP-1,carbon,0,2.0,4000.0,2,22,solid,0.289,0.298,3.1,EXACT,Table6
+135,D'Oliveira et al. 2026,CrodaTherm 60,GNP-1,carbon,0,4.0,4000.0,2,22,solid,0.289,0.307,6.2,EXACT,Table6
+136,D'Oliveira et al. 2026,CrodaTherm 60,GNP-1,carbon,0,6.0,4000.0,2,22,solid,0.289,0.329,13.8,EXACT,Table6
+137,D'Oliveira et al. 2026,CrodaTherm 60,GNP-2,carbon,0,2.0,4000.0,7,22,solid,0.289,0.476,64.7,EXACT,Table6
+138,D'Oliveira et al. 2026,CrodaTherm 60,GNP-2,carbon,0,4.0,4000.0,7,22,solid,0.289,0.687,137.7,EXACT,Table6
+139,D'Oliveira et al. 2026,CrodaTherm 60,GNP-2,carbon,0,6.0,4000.0,7,22,solid,0.289,0.719,148.8,EXACT,Table6
+140,Samara & Hamdan 2024,paraffin,none,base,0,0.0,0.0,80,23,solid,0.277,0.277,0.0,EXACT,Table1
+141,Samara & Hamdan 2024,paraffin,Al2O3,oxide,0,4.0,35.0,80,23,solid,0.277,0.307,10.8,EXACT,Table1
+142,Samara & Hamdan 2024,paraffin,Al2O3,oxide,0,11.0,35.0,80,23,solid,0.277,0.338,22.0,EXACT,Table1
+143,Samara & Hamdan 2024,paraffin,none,base,0,0.0,0.0,80,35,liquid,0.132,0.132,0.0,EXACT,Table1
+144,Samara & Hamdan 2024,paraffin,Al2O3,oxide,0,4.0,35.0,80,35,liquid,0.132,0.146,10.6,EXACT,Table1
+145,Samara & Hamdan 2024,paraffin,Al2O3,oxide,0,11.0,35.0,80,35,liquid,0.132,0.157,18.9,EXACT,Table1
+146,Samara & Hamdan 2024,paraffin,none,base,0,0.0,0.0,80,50,liquid,0.149,0.149,0.0,EXACT,Table1
+147,Samara & Hamdan 2024,paraffin,Al2O3,oxide,0,4.0,35.0,80,50,liquid,0.149,0.167,12.1,EXACT,Table1
+148,Samara & Hamdan 2024,paraffin,Al2O3,oxide,0,11.0,35.0,80,50,liquid,0.149,0.179,20.1,EXACT,Table1
+149,Zhao et al. 2025,paraffin,EG (SY skeleton),carbon,0,10.0,100.0,NR,25,solid,0.25,10.7,4180.0,EXACT(base imp.),text p.9 radial
+150,Zhao et al. 2025,paraffin,EG (SH skeleton),carbon,0,10.0,100.0,NR,25,solid,0.25,9.99,3896.0,EXACT(base imp.),text p.9 radial
